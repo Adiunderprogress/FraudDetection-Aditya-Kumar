@@ -6,7 +6,7 @@ IEEE-CIS Fraud Detection — Capstone Project | AI and Data Analytics Internship
 
 ## Live Dashboard URL
 Paste your Streamlit Community Cloud URL here after deployment.
-Example: https://your-username-frauddetection-app.streamlit.app
+Example: https://frauddetection-aditya-kumar-jezg33drivurpyvltgupvd.streamlit.app/
 
 ---
 

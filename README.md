@@ -11,7 +11,6 @@ Example: https://frauddetection-aditya-kumar-jezg33drivurpyvltgupvd.streamlit.ap
 ---
 
 ## Project Overview
-
 End-to-end fraud detection pipeline on 590,000 real banking transactions.
 
 | Component | Technology |

@@ -22,7 +22,7 @@ End-to-end fraud detection pipeline on 590,000 real banking transactions.
 | Explainability | SHAP TreeExplainer |
 | Hyperparameter Tuning | Optuna 50 trials |
 | Dashboard | Streamlit 3-page app |
-| Interactive Charts | Plotly |
+| Interactive Charts | Plotly 
 
 ---
 

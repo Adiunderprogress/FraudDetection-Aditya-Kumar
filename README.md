@@ -14,7 +14,7 @@ Example: https://frauddetection-aditya-kumar-jezg33drivurpyvltgupvd.streamlit.ap
 
 End-to-end fraud detection pipeline on 590,000 real banking transactions.
 
-| Component | Technology |
+| Component | Technology ||
 |---|---|
 | Primary Classifier | LightGBM (Optuna-tuned) |
 | Comparison Models | XGBoost, Isolation Forest |
